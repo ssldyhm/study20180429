@@ -1,3 +1,4 @@
 # study20180429
 learn the program
-dong some fix.
+doing some fix.
+doing more fix.
